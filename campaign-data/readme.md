@@ -1,4 +1,4 @@
-Input files: InventBiotech_AACR_leads.csv:[https://github.com/deoxy-llc/Karthick/blob/master/campaign-data/InventBiotech_AACR_leads.csv] and "summary_..." files.
+Input files: [InventBiotech_AACR_leads.csv](https://github.com/deoxy-llc/Karthick/blob/master/campaign-data/InventBiotech_AACR_leads.csv) and "summary_..." files.
 
 The "summary" files concern three projects "1MinColumn", "RIPA", and "TraceProteins", and each with two kinds of data, namely "opens" and "clicks". 
 
