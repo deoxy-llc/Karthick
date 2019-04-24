@@ -1,6 +1,6 @@
 
 
-For "clicks", multiple URLs are associated with the same email. In that case, add up the click numbers and report a total. The following is an example:
+For "clicks", sometimes multiple URLs are associated with the same email. In that case, add up the click numbers and report a total. The following is an example:
 
 EMAIL URL 1MinColumn-Clicks
 
