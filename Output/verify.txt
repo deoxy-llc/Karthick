@@ -1,0 +1,63 @@
+1MinColumnOpens
+
+Total			: 2629
+Found Total		: 2427
+Not Found Total	: 202
+
+No of Rows			: 1776
+Found No of Rows	: 1636
+Not Found No of Rows: 140
+
+
+1MinColumn-Clicks
+
+Total			: 217
+Found Total		: 209
+Not Found Total	: 8
+
+Total Rows			: 139
+Found No of Rows	: 133
+Not Found No of Rows: 6
+
+
+
+RIPA-Opens
+
+Total			: 2208
+Found Total		: 2153
+Not Found Total	: 55
+
+Total Rows			: 1563
+Found No of Rows	: 1523
+Not Found No of Rows: 40
+
+RIPA-clicks
+
+Total			: 134
+Found Total		: 134
+Not Found Total	: 0
+
+Total Rows			: 73
+Found No of Rows	: 73
+Not Found No of Rows: 73
+
+TraceProteins-Opens
+
+Total			: 2017
+Found Total		: 1892
+Not Found Total	: 125
+
+Total Rows			: 1454
+Found No of Rows	: 1373
+Not Found No of Rows: 81
+
+TraceProteins-Clicks
+
+Total			: 92
+Found Total		: 89
+Not Found Total	: 3
+
+Total Rows			: 59
+Found No of Rows	: 58
+Not Found No of Rows: 1
+
