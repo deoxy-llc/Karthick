@@ -12,4 +12,4 @@ For "clicks", sometimes multiple URLs are associated with the same email. In tha
 
     ljh216@psu.edu	https://inventbiotech.com/collections/fast-protein-extraction-1/products/minute-total-protein-extraction-kit-for-animal-cultured-cells-and-tissues-us-patent-9-580-462	3
 
-    Report "15" (which is the sum of 5,4,3,3) for value "1MinColumn-Clicks". 
+Report "15" (which is the sum of 5,4,3,3) for value "1MinColumn-Clicks". 
