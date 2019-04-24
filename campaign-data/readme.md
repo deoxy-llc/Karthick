@@ -1,9 +1,8 @@
-Input files: [InventBiotech_AACR_leads.csv](https://github.com/deoxy-llc/Karthick/blob/master/campaign-data/InventBiotech_AACR_leads.csv) and "summary_..." files.
+Input files: [InventBiotech_AACR_leads.csv](https://github.com/deoxy-llc/Karthick/blob/master/campaign-data/InventBiotech_AACR_leads.csv) and "summary_..." [files](https://github.com/deoxy-llc/Karthick/tree/master/campaign-data).
 
 The "summary" files concern three projects "1MinColumn", "RIPA", and "TraceProteins", and each with two kinds of data, namely "opens" and "clicks". 
 
-Task: Match opens and clicks from "summary" files for each project with entries in "InventBiotech_AACR_leads.csv". Use "Email" as identifier. See "Output_Example" for an example of desriable output (the values are not real in that file). 
-
+Task: Match opens and clicks from "summary" files for each project with entries in "InventBiotech_AACR_leads.csv". Use "Email" as identifier. See [Output_Example](https://github.com/deoxy-llc/Karthick/blob/master/campaign-data/Output_Example.csv) for an example of desriable output (the values are not real in that file).
 
 For "clicks", sometimes multiple URLs are associated with the same email. In that case, add up the click numbers and report a total. The following is an example:
 
