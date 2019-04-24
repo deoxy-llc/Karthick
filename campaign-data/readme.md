@@ -4,7 +4,7 @@ For "clicks", sometimes multiple URLs are associated with the same email. In tha
 
   EMAIL URL 1MinColumn-Clicks
 
-  ljh216@psu.edu	https://inventbiotech.com/pages/contact-us	5
+   ljh216@psu.edu	https://inventbiotech.com/pages/contact-us	5
 
   ljh216@psu.edu	https://www.youtube.com/watch?v=W8BlE1Kwuec	4
 
